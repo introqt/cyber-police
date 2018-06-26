@@ -1,0 +1,18 @@
+.logo__image {
+    width: 80%;
+}
+
+.main-header .navbar {
+    background: linear-gradient(to right, rgba(27, 92, 124, 1) 0%, rgba(61, 151, 200, 1) 53%, rgba(27, 92, 124, 1) 100%);
+}
+
+.content-wrapper {
+    background: linear-gradient(to right, rgba(27, 92, 124, 1) 0%, rgba(61, 151, 200, 1) 53%, rgba(27, 92, 124, 1) 100%);
+}
+
+.breadcrumb li,
+.breadcrumb li > a,
+.content-header h1,
+.content-header h1 small{
+    color: #fff !important;
+}
